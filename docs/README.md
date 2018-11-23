@@ -1,6 +1,6 @@
 ## Welcome to j0n3con
 
-Here you will find information about the J0necon talks that happened in Alcalá de Henares (Madrid).
+Here you will find information about the J0n3con talks that happened in Alcalá de Henares (Madrid).
 
 ### Editions
 
